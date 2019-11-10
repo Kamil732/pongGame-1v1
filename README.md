@@ -1,0 +1,3 @@
+# pongGame-1v1
+PLAYER 1 - TO MOVE 'W' AND 'S'
+PLAYER 2 - TO MOVE 'UP' AND 'DOWN'
